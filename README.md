@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![snake gif](https://github.com/vva-odoo/vva-odoo/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **vva-odoo/vva-odoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
